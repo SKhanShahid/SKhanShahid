@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm shahid s khan</h1>
 <p>An Aspiring Full-stack developer along with some keen interest in Electronics Engineering</p>
-https://komarev.com/ghpvc/?username=SKhanShahid
+![](https://komarev.com/ghpvc/?username=SKhanShahid&color=green)
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
