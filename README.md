@@ -14,10 +14,14 @@
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-![Profile views](https://komarev.com/ghpvc/?username=SKhanShahid&color=blue&style=for-the-badge)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SKhanShahid&color=blue&style=for-the-badge" alt="Profile views">
+</p>
+
 <h2>⚡️ Where to find me</h2>
 <p><a href="https://www.linkedin.com/in/shahid-s-khan-06881a318/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> 
 <a href="mailto:skhanshahid84@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="email"></a></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SKhanShahid&show_icons=true&locale=en" alt="SKhanShahid" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKhanShahid&" alt="SKhanShahid" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SKhanShahid&show_icons=true&locale=en&layout=compact" alt="SKhanShahid" /></p>
